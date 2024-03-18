@@ -1,0 +1,27 @@
+dateModified: 1710777772
+email:
+  fromEmail: admin@admin.com
+  fromName: 'Craft 5 Matrix bug'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2dca18c3-a39a-4c9b-851d-ee5c6503e07a: 'A matrix ''field''' # A matrix 'field'
+    452b9e3a-b9ae-463e-ab2a-62e94dd6b16f: 'My first section' # My first section
+    870dca90-bf34-4aaa-99e9-7de9beb15c7c: 'Craft 5 Matrix bug' # Craft 5 Matrix bug
+    d9017f42-a8f6-49f3-aeb0-c4b85d35fb01: 'Craft 5 Matrix bug' # Craft 5 Matrix bug
+    d795669e-9488-4c8b-90ca-e2e60e1ef24b: Default # Default
+    fcfeef00-2fa7-42f5-95a8-27099c04e7b5: 'A matrix ''block''' # A matrix 'block'
+system:
+  edition: solo
+  live: true
+  name: 'Craft 5 Matrix Bug'
+  retryDuration: null
+  schemaVersion: 5.0.0.20
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

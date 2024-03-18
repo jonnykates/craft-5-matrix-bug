@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - d795669e-9488-4c8b-90ca-e2e60e1ef24b # Default
+handle: myFirstSection
+maxAuthors: 1
+name: 'My first section'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  d9017f42-a8f6-49f3-aeb0-c4b85d35fb01: # Craft 5 Matrix bug
+    enabledByDefault: true
+    hasUrls: true
+    template: _entry
+    uriFormat: '{slug}'
+type: channel

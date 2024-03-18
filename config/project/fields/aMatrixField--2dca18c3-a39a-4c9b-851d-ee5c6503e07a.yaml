@@ -1,0 +1,20 @@
+columnSuffix: null
+handle: aMatrixField
+instructions: null
+name: 'A matrix ''field'''
+searchable: false
+settings:
+  createButtonLabel: null
+  entryTypes:
+    - fcfeef00-2fa7-42f5-95a8-27099c04e7b5 # A matrix 'block'
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: blocks
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
